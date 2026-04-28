@@ -54,7 +54,7 @@ The notebook `Housing_price_project.ipynb` follows these steps:[file:36]
    - Highlight practical usage, e.g., rough price estimation, identifying high‑value areas, or studying affordability.
 
 
-## How to Run the Notebook
+## How to Run the Notebook(chnage the links and paths as required)
 
 1. Clone the repository:
 
